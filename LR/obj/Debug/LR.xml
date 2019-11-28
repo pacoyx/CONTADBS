@@ -1,0 +1,564 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LR
+</name>
+</assembly>
+<members>
+<member name="T:LR.Ds_Reportes_Planilla.SG_PL_01DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Planilla.SG_PL_01Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Planilla.SG_PL_01RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Planilla">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_01DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_02DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_03DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_04DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_05DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_06DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_07DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_08DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_CO_35DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_CO_00DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_031DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_09DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_ReportesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_01Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_02Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_03Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_04Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_05Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_06Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_07Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_08Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_CO_35Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_CO_00Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_031Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_09Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_ReportesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_01RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_02RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_03RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_04RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_05RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_06RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_07RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_08RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_CO_35RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_CO_00RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SF_FA_031RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_09RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion.SG_FA_ReportesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Rep_Facturacion">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="P:LR.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:LR.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="T:LR.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_01DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_02DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_03DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_04DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_05DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_06DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_07DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_08DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_09DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_10DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_11DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_12DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_13DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_14DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_15DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_16DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_17DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_18DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_19DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_20DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_21DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_22DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_23DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_24DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_25DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_26DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_27DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_28DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_29DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_30DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_01Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_02Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_03Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_04Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_05Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_06Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_07Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_08Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_09Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_10Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_11Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_12Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_13Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_14Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_15Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_16Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_17Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_18Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_19Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_20Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_21Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_22Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_23Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_24Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_25Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_26Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_27Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_28Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_29Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_30Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_01RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_02RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_03RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_04RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_05RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_06RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_07RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_08RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_09RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_10RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_11RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_12RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_13RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_14RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_15RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_16RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_17RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_18RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_19RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_20RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_21RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_22RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_23RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_24RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_25RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_26RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_27RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_28RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_29RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta.SG_CO_30RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:LR.Ds_Reportes_Conta">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

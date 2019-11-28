@@ -1,0 +1,90 @@
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\ResolveAssemblyReference.cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.Resources.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.vbproj.GenerateResource.Cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\LR.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\LR.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\LR.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\ResolveAssemblyReference.cache
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.Resources.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.vbproj.GenerateResource.Cache
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\LR.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\LR.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\LR.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\ResolveAssemblyReference.cache
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.Resources.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.vbproj.GenerateResource.Cache
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BL.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\LR.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\LR.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\LR.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\ResolveAssemblyReference.cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.Resources.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.vbproj.GenerateResource.Cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\obj\Release\BL.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BL\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\BL.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\BL.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\BL.xml
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\BE.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\LR.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\office.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\BE.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\BE.xml
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\Microsoft.ApplicationBlocks.Data.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\LR.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\BL\bin\Release\LR.xml
+D:\SOURCES\DUN\Sistema Gestion 2\BL\obj\Release\ResolveAssemblyReference.cache
+D:\SOURCES\DUN\Sistema Gestion 2\BL\obj\Release\BL.Resources.resources
+D:\SOURCES\DUN\Sistema Gestion 2\BL\obj\Release\BL.vbproj.GenerateResource.Cache
+D:\SOURCES\DUN\Sistema Gestion 2\BL\obj\Release\BL.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BL\obj\Release\BL.xml
+D:\SOURCES\DUN\Sistema Gestion 2\BL\obj\Release\BL.pdb

@@ -1,0 +1,90 @@
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\ResolveAssemblyReference.cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.dll
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.pdb
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.xml
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\ResolveAssemblyReference.cache
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\ResolveAssemblyReference.cache
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\ResolveAssemblyReference.cache
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\ResolveAssemblyReference.cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\bin\BE.dll
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\bin\BE.pdb
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\bin\BE.xml
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\obj\Debug\ResolveAssemblyReference.cache
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\BE.dll
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\BE.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\BE.xml
+D:\SOURCES\DUN\Sistema Gestion 2\DA\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCES\DUN\Sistema Gestion 2\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SOURCES\DUN\Sistema Gestion 2\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\SOURCES\DUN\Sistema Gestion 2\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\bin\BE.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\bin\BE.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\bin\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\obj\Debug\ResolveAssemblyReference.cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\obj\Debug\DA.vbprojResolveAssemblyReference.cache
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.pdb
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\bin\BE.dll
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\bin\BE.pdb
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\bin\BE.xml
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\DA\obj\Debug\Microsoft.ApplicationBlocks.Data.pdb

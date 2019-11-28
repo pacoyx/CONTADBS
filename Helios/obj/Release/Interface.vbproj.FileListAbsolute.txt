@@ -1,0 +1,631 @@
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.exe
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Helios.exe
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Helios.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Helios.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BE.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BL.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Microsoft.ApplicationBlocks.Data.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BL.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BL.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BE.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BE.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\ResolveAssemblyReference.cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_Anexos.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_DetClientes.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_Empresa.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_PlanCtas.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_Subdiarios.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_Usuarios.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_SE_TipoAnexos.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_LG_Empresas.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_LG_Login.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MN_Log.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MN_MenuPrincipal.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.Resources.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Interface.vbproj.GenerateResource.Cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.exe.licenses
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_TCamb_Copy.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_TCamb_Web.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_TipoCambio.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MN_Grupos.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_Modulos.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MN_MenuInicial.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_OpcMenu.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_Permisos_Usu_Mnu.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_AsientoAuto.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_Documentos.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_Impuestos.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_PR_VouCompras.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_PR_VouCompras_Destinos.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_PR_VouCompras_Detraccion.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_PR_VouCompras_Referencia.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_PR_EdicionVoucher.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_RE_Reporte.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.exe.config
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.exe.manifest
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.application
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.exe
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BE.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BL.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\LR.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Microsoft.ApplicationBlocks.Data.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\LR.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\LR.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BL.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BL.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BE.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BE.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\ResolveAssemblyReference.cache
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Interface.vbproj.ResolveComReference.cache
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Anexos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_AsientoAuto.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco_Contactos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco_CtasCorrientes.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco_Telefonos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Buscar.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CentroCosto.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Conf_BG.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Conf_EGP.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_DetClientes.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_DetProve.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Documentos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Empresa.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Impuestos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_PlanCtas.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_PlanCtas_Reporte.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_RegCompraVentaHono.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Subdiarios.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_TCamb_Copy.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_TCamb_Web.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_TipoCambio.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_ActDetraccion.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_Apertura_Tmp.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_CierreApertura.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_Cierre_Tmp.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_ConiITF.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_GeneraITFMes.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_NovaqVta.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis4.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis5.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Balance_Compro.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Balance_Gral.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Bal_Inv.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Daot.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_DetCta50.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_EGP.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_ImpCheques.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Kardes_Anexo.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Mov_Cta.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Saldos_Mayor.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.AboutBox1.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarClaveUsu.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_ParametrosGen.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Usuarios.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_SE_TipoAnexos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_AdmMes.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_ConciliacionBanco.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_DocPendientes.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_Reg_AnexoNuevo.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_SaldoBancario.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCajaBancos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Destinos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Detraccion.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Referencia.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_EdicionVoucher.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouGenerales.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouHonorarios.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouVentas.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouVentas_Cta70.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Char2.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Char4.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_CharCuentas1.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_LibDiario.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis1.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis2.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis3.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_ConciliacionBancos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_LibCajaBancos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_REG_COM_VTA.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_LibMayor.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_LG_Empresas.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_LG_IniciarRegEdit.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_LG_Login.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_Carga.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_Grupos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_Log.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_MenuInicial.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_MenuPrincipal.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarEmpresa.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarFecha.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarFondoMenu.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Impresoras.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Modulos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_OpcMenu.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Perfiles.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Permisos_Perfil.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Permisos_Usu_Mnu.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_UsuariosWeb.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.SplashScreen1.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.Resources.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RE_Reporte.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_Afps.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_Area.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_Cargo.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_Compatibilidad.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_Concepto.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_GrupoSanguineo.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_Personal.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_Tarifa.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_Tipo_Tarifa.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_MA_Ubigeo.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_PR_CuentaCorriente.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_PR_Folios.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_PR_Folio_Cargas.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_PR_Liquidacion_Planilla.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_PR_Lista_Personal.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_PR_Suspensiones.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.PL_RP_Liq_Apor_Ret.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_AR_Bancos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_AR_Conceptos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_AR_TipoCambio.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_PR_Egresos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_PR_Ingresos.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_PR_Lista_Auxi.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Interface.vbproj.GenerateResource.Cache
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.exe.licenses
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.exe.manifest
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.application
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.exe
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.exe.config
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.exe.manifest
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.application
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.exe
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Contabilidad.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BE.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BL.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\LR.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Microsoft.ApplicationBlocks.Data.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Microsoft.ApplicationBlocks.Data.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Microsoft.ApplicationBlocks.Data.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\LR.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\LR.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BL.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BL.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BE.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\BE.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\ResolveAssemblyReference.cache
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Interface.vbproj.ResolveComReference.cache
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Anexos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_AsientoAuto.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco_Contactos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco_CtasCorrientes.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco_Telefonos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Buscar.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CentroCosto.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Conf_BG.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Conf_EGP.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_DetClientes.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_DetProve.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Documentos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Empresa.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Impuestos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_PlanCtas.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_PlanCtas_Reporte.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_RegCompraVentaHono.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Subdiarios.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_TCamb_Copy.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_TCamb_Web.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_TipoCambio.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_ActDetraccion.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_Apertura_Tmp.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_CierreApertura.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_Cierre_Tmp.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_ConiITF.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_GeneraITFMes.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_NovaqVta.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis4.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis5.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Balance_Compro.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Balance_Gral.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Bal_Inv.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Daot.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_DetCta50.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_EGP.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_ImpCheques.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Kardes_Anexo.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Mov_Cta.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Saldos_Mayor.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.AboutBox1.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarClaveUsu.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_ParametrosGen.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Usuarios.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_SE_TipoAnexos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_AdmMes.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_ConciliacionBanco.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_DocPendientes.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_Reg_AnexoNuevo.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_SaldoBancario.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCajaBancos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Destinos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Detraccion.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Referencia.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_EdicionVoucher.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouGenerales.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouHonorarios.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouVentas.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouVentas_Cta70.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Char2.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Char4.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_CharCuentas1.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_LibDiario.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis1.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis2.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis3.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_ConciliacionBancos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_LibCajaBancos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_REG_COM_VTA.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_LibMayor.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_LG_Empresas.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_LG_IniciarRegEdit.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_LG_Login.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_Carga.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_Grupos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_Log.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_MenuInicial.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_MenuPrincipal.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarEmpresa.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarFecha.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarFondoMenu.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Impresoras.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Modulos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_OpcMenu.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Perfiles.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Permisos_Perfil.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Permisos_Usu_Mnu.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_UsuariosWeb.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.SplashScreen1.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.Resources.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RE_Reporte.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_AR_Bancos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_AR_Conceptos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_AR_TipoCambio.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_PR_Egresos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_PR_Ingresos.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_PR_Lista_Auxi.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Interface.vbproj.GenerateResource.Cache
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.exe.licenses
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.exe.manifest
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.application
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.exe
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.exe.config
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.exe.manifest
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.application
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.exe
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BE.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BL.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\LR.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\LR.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\LR.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BL.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BL.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BE.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.exe.config
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.exe.manifest
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.application
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.exe
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Contabilidad.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BE.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BL.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\LR.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\LR.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\LR.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BL.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BL.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BE.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\ResolveAssemblyReference.cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Interface.vbproj.ResolveComReference.cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Anexos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_AsientoAuto.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco_Contactos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco_CtasCorrientes.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Banco_Telefonos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Buscar.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CentroCosto.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Conf_BG.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Conf_EGP.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_DetClientes.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_DetProve.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Documentos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Empresa.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Impuestos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_PlanCtas.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_PlanCtas_Reporte.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_RegCompraVentaHono.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Subdiarios.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_TCamb_Copy.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_TCamb_Web.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_TipoCambio.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_ActDetraccion.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_Apertura_Tmp.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_CierreApertura.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_Cierre_Tmp.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_ConiITF.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_GeneraITFMes.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_NovaqVta.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_PLE.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis4.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis5.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Balance_Compro.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Balance_Gral.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Bal_Inv.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Daot.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_DetCta50.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_EGP.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_ImpCheques.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Kardes_Anexo.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Mov_Cta.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Saldos_Mayor.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.AboutBox1.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarClaveUsu.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_ParametrosGen.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Usuarios.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_SE_TipoAnexos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_AdmMes.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_ConciliacionBanco.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_DocPendientes.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_Reg_AnexoNuevo.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_SaldoBancario.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCajaBancos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Destinos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Detraccion.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Referencia.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_EdicionVoucher.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouGenerales.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouHonorarios.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouVentas.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_PR_VouVentas_Cta70.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Char2.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Char4.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_CharCuentas1.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_LibDiario.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis1.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis2.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Analisis3.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_ConciliacionBancos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_LibCajaBancos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_REG_COM_VTA.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_LibMayor.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_LG_Empresas.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_LG_IniciarRegEdit.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_LG_Login.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_Carga.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_Grupos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_Log.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_MenuInicial.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MN_MenuPrincipal.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarEmpresa.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarFecha.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_CambiarFondoMenu.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Impresoras.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Modulos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_OpcMenu.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Perfiles.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Permisos_Perfil.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_Permisos_Usu_Mnu.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_UsuariosWeb.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.SplashScreen1.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.Resources.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RE_Reporte.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_AR_Bancos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_AR_Conceptos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_AR_TipoCambio.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_PR_Egresos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_PR_Ingresos.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.TE_PR_Lista_Auxi.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Interface.vbproj.GenerateResource.Cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.exe.licenses
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.exe.manifest
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.application
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.exe
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_MT_DetHono.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Contabilidad.CO_RP_Consolidado_Cta.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Contabilidad.exe.config
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Contabilidad.exe.manifest
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Contabilidad.application
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Contabilidad.exe
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Contabilidad.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Contabilidad.xml
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\BE.dll
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\BL.dll
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\LR.dll
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.dll
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\office.dll
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\Microsoft.ApplicationBlocks.Data.xml
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\LR.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\LR.xml
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\BL.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\BL.xml
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\BE.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\bin\Debug\BE.xml
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\ResolveAssemblyReference.cache
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Interface.vbproj.ResolveComReference.cache
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Anexos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_AsientoAuto.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Banco.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Banco_Contactos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Banco_CtasCorrientes.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Banco_Telefonos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Buscar.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_CentroCosto.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Conf_BG.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Conf_EGP.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_DetClientes.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_DetHono.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_DetProve.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Documentos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Empresa.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Impuestos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_PlanCtas.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_PlanCtas_Reporte.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_RegCompraVentaHono.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Subdiarios.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_TCamb_Copy.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_TCamb_Web.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_TipoCambio.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_ActDetraccion.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_Apertura_Tmp.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_CierreApertura.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_Cierre_Tmp.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_ConiITF.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_GeneraITFMes.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_NovaqVta.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_PLE.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Analisis4.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Analisis5.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Balance_Compro.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Balance_Gral.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Bal_Inv.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Consolidado_Cta.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Daot.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_DetCta50.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_EGP.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_ImpCheques.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Kardes_Anexo.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Mov_Cta.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Saldos_Mayor.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.AboutBox1.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_CambiarClaveUsu.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_ParametrosGen.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Usuarios.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_SE_TipoAnexos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_AdmMes.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_ConciliacionBanco.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_DocPendientes.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_Reg_AnexoNuevo.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_SaldoBancario.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_VouCajaBancos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_VouCompras.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Destinos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Detraccion.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_VouCompras_Referencia.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_EdicionVoucher.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_VouGenerales.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_VouHonorarios.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_VouVentas.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_PR_VouVentas_Cta70.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Char2.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Char4.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_CharCuentas1.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_LibDiario.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Analisis1.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Analisis2.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_Analisis3.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_ConciliacionBancos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_LibCajaBancos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_REG_COM_VTA.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RP_LibMayor.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_LG_Empresas.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_LG_IniciarRegEdit.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_LG_Login.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MN_Carga.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MN_Grupos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MN_Log.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MN_MenuInicial.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MN_MenuPrincipal.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_CambiarEmpresa.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_CambiarFecha.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_CambiarFondoMenu.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Impresoras.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Modulos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_OpcMenu.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Perfiles.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Permisos_Perfil.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_Permisos_Usu_Mnu.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_MT_UsuariosWeb.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.SplashScreen1.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Articulo.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Cajeros.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Categoria_Arti.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Clientes.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Documentos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Docum_Pago.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Familias.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_FormaPago.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Monedas.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Numeracion.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Parametros.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_PuntoVenta.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_TipoCambio.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Turno.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Usuario_PtoVta.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_AgregarSeries.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_AsientoCaja.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_Caja_Ape.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_Caja_Cie.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_DetPago.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_Emi_Compro.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_IngClienteRapido.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_ListaArticuloAyuda.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_ListaClientesAyuda.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_PR_Mante_Compro.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_RE_ConsultaCaja.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_RE_PlanillaCaja.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_RE_RankingVentas.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_RE_RegVentas.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_RE_VentasxCajero.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_RE_VentasxCliente.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_RE_VentasxDia.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.Resources.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.CO_RE_Reporte.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.PL_MA_Ubigeo.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.TE_AR_Bancos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.TE_AR_Conceptos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.TE_AR_TipoCambio.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.TE_PR_Egresos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.TE_PR_Ingresos.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.TE_PR_Lista_Auxi.resources
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Interface.vbproj.GenerateResource.Cache
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.exe.licenses
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.exe.manifest
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.application
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.exe
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.xml
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\Helios\obj\Release\Contabilidad.FA_MA_Vendedor.resources

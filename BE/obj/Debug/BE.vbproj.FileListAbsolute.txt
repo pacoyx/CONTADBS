@@ -1,0 +1,80 @@
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\ResolveAssemblyReference.cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.Resources.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.pdb
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.dll
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.pdb
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.xml
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\ResolveAssemblyReference.cache
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.Resources.resources
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.dll
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.xml
+E:\_Karlos\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.pdb
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\ResolveAssemblyReference.cache
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.Resources.resources
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.dll
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.xml
+E:\Fuentes\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\ResolveAssemblyReference.cache
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.Resources.resources
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BE\bin\Debug\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\ResolveAssemblyReference.cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.Resources.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\BE\obj\Debug\BE.pdb
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\BE\bin\Debug\BE.dll
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\BE\bin\Debug\BE.pdb
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\BE\bin\Debug\BE.xml
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\BE\obj\Debug\ResolveAssemblyReference.cache
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\BE\obj\Debug\BE.Resources.resources
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\BE\obj\Debug\BE.dll
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\BE\obj\Debug\BE.xml
+D:\_Karlos\fuentes\DUN\fuente2008\Sistema Gestion\BE\obj\Debug\BE.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\BE\bin\Debug\BE.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BE\bin\Debug\BE.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\BE\bin\Debug\BE.xml
+D:\SOURCES\DUN\Sistema Gestion 2\BE\obj\Debug\ResolveAssemblyReference.cache
+D:\SOURCES\DUN\Sistema Gestion 2\BE\obj\Debug\BE.Resources.resources
+D:\SOURCES\DUN\Sistema Gestion 2\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+D:\SOURCES\DUN\Sistema Gestion 2\BE\obj\Debug\BE.dll
+D:\SOURCES\DUN\Sistema Gestion 2\BE\obj\Debug\BE.xml
+D:\SOURCES\DUN\Sistema Gestion 2\BE\obj\Debug\BE.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\BE\bin\Debug\BE.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\BE\bin\Debug\BE.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\BE\bin\Debug\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\BE\obj\Debug\ResolveAssemblyReference.cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\BE\obj\Debug\BE.Resources.resources
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\BE\obj\Debug\BE.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\BE\obj\Debug\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion 2\BE\obj\Debug\BE.pdb
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\BE\bin\Debug\BE.dll
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\BE\bin\Debug\BE.pdb
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\BE\bin\Debug\BE.xml
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\BE\obj\Debug\BE.Resources.resources
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\BE\obj\Debug\BE.vbproj.GenerateResource.Cache
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\BE\obj\Debug\BE.dll
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\BE\obj\Debug\BE.xml
+D:\_karlos\_Business\Fuentes\Dum_Bradstreet\modulo Accounting\Sistema Gestion 2\BE\obj\Debug\BE.pdb

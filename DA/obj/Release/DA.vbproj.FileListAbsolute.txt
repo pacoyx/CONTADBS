@@ -1,0 +1,29 @@
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Release\ResolveAssemblyReference.cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\DA\obj\Release\Microsoft.ApplicationBlocks.Data.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.pdb
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.xml
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\obj\Release\ResolveAssemblyReference.cache
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+E:\_Karlos\Fuentes\DyB_cbcon\CONTABILIDAD12\Sistema Gestion\DA\obj\Release\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.pdb
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\bin\BE.xml
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\obj\Release\ResolveAssemblyReference.cache
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\_Karlos\Personal\Fuentes\Dum_Bradstreet\CONTABILIDAD12\Sistema Gestion\DA\obj\Release\Microsoft.ApplicationBlocks.Data.xml
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.dll
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\Microsoft.ApplicationBlocks.Data.xml
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\BE.dll
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\BE.pdb
+D:\SOURCES\DUN\Sistema Gestion 2\DA\bin\BE.xml
+D:\SOURCES\DUN\Sistema Gestion 2\DA\obj\Release\ResolveAssemblyReference.cache
+D:\SOURCES\DUN\Sistema Gestion 2\DA\obj\Release\Microsoft.ApplicationBlocks.Data.dll
+D:\SOURCES\DUN\Sistema Gestion 2\DA\obj\Release\Microsoft.ApplicationBlocks.Data.xml

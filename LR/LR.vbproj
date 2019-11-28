@@ -1,0 +1,665 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{355671BC-478F-4DF5-8A32-BF3229C1527C}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>LR</RootNamespace>
+    <AssemblyName>LR</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>Windows</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>LR.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>LR.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022,42353,42354,42355</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.vb" />
+    <Compile Include="ClsFunciones.vb" />
+    <Compile Include="ClsReporte.vb" />
+    <Compile Include="CO_RE_Reporte.Designer.vb">
+      <DependentUpon>CO_RE_Reporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CO_RE_Reporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DataSet\Ds_Reportes_Conta.Designer.vb">
+      <DependentUpon>Ds_Reportes_Conta.xsd</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="DataSet\Ds_Reportes_Conta.vb">
+      <DependentUpon>Ds_Reportes_Conta.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Ds_Reportes_Planilla.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_Reportes_Planilla.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Ds_Rep_Facturacion.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Ds_Rep_Facturacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet\Ds_Rep_Facturacion.vb">
+      <DependentUpon>Ds_Rep_Facturacion.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_11_2.vb">
+      <DependentUpon>SG_CO_11_2.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_17_1.vb">
+      <DependentUpon>SG_CO_17_1.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_04_1.vb">
+      <DependentUpon>SG_CO_04_1.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_02_1.vb">
+      <DependentUpon>SG_CO_02_1.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_38.vb">
+      <DependentUpon>SG_CO_38.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_34.vb">
+      <DependentUpon>SG_CO_34.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_32.vb">
+      <DependentUpon>SG_CO_32.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_31.vb">
+      <DependentUpon>SG_CO_31.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_17.vb">
+      <DependentUpon>SG_CO_17.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_02.vb">
+      <DependentUpon>SG_CO_02.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_03.vb">
+      <DependentUpon>SG_CO_03.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_04.vb">
+      <DependentUpon>SG_CO_04.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_05.vb">
+      <DependentUpon>SG_CO_05.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_06.vb">
+      <DependentUpon>SG_CO_06.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_07.vb">
+      <DependentUpon>SG_CO_07.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_08.vb">
+      <DependentUpon>SG_CO_08.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_09.vb">
+      <DependentUpon>SG_CO_09.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_10.vb">
+      <DependentUpon>SG_CO_10.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_11.vb">
+      <DependentUpon>SG_CO_11.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_12.vb">
+      <DependentUpon>SG_CO_12.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_13.vb">
+      <DependentUpon>SG_CO_13.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_14.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_14.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_15.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_15.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_16.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_16.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_18.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_18.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_19.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_19.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_201.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_20.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_21.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_21.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_22.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_22.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_23.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_23.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_24.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_24.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_25.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_25.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_26.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_26.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_27.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_27.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_01.vb">
+      <DependentUpon>SG_CO_01.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_28.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_28.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_29.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_29.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_30.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_30.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_33.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_33.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_35.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_35.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_36.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_36.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Conta\SG_CO_37.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_CO_37.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Factu\SG_FA_03.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_FA_03.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Factu\SG_FA_07.vb">
+      <DependentUpon>SG_FA_07.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Factu\SG_FA_06.vb">
+      <DependentUpon>SG_FA_06.rpt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <SubType>Component</SubType>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Reportes_Factu\SG_FA_01.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_FA_01.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Reportes_Planilla\SG_PL_01.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SG_PL_01.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CO_RE_Reporte.resx">
+      <DependentUpon>CO_RE_Reporte.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_11_2.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_11_2.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_17_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_17_1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_04_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_04_1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_02_1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_02_1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_38.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_38.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_34.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_34.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_32.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_32.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_31.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_31.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_17.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_17.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_02.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_02.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_03.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_03.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_04.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_04.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_05.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_05.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_06.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_06.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_07.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_07.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_08.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_08.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_09.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_09.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_10.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_10.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_11.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_11.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_12.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_12.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_13.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_13.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_14.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_14.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_15.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_15.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_16.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_16.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_18.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_18.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_19.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_19.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_20.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_201.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_21.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_21.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_22.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_22.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_23.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_23.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_24.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_24.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_25.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_25.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_26.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_26.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_27.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_27.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_01.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_01.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_28.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_28.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_29.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_29.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_30.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_30.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_33.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_33.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_35.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_35.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_36.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_36.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Conta\SG_CO_37.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_CO_37.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Factu\SG_FA_03.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_FA_03.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Factu\SG_FA_07.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_FA_07.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Factu\SG_FA_06.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_FA_06.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Factu\SG_FA_01.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_FA_01.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reportes_Planilla\SG_PL_01.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>SG_PL_01.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="DataSet\Ds_Reportes_Conta.xsc">
+      <DependentUpon>Ds_Reportes_Conta.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Ds_Reportes_Conta.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_Reportes_Conta.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet\Ds_Reportes_Conta.xss">
+      <DependentUpon>Ds_Reportes_Conta.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Ds_Reportes_Planilla.xsc">
+      <DependentUpon>Ds_Reportes_Planilla.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Ds_Reportes_Planilla.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_Reportes_Planilla.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet\Ds_Reportes_Planilla.xss">
+      <DependentUpon>Ds_Reportes_Planilla.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Ds_Rep_Facturacion.xsc">
+      <DependentUpon>Ds_Rep_Facturacion.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet\Ds_Rep_Facturacion.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Ds_Rep_Facturacion.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="DataSet\Ds_Rep_Facturacion.xss">
+      <DependentUpon>Ds_Rep_Facturacion.xsd</DependentUpon>
+    </None>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

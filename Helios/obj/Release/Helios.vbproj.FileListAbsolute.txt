@@ -1,0 +1,14 @@
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Helios.exe
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Helios.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\bin\Release\Helios.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\ResolveAssemblyReference.cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MT_Subdiarios.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.Resources.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.vbproj.GenerateResource.Cache
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.exe
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.xml
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.pdb
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MN_Menues.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.CO_MN_MenuPrincipal.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.W_CO_ItemPrueba.resources
+D:\_KARLOS\Fuentes\CONTABILIDAD12\Sistema Gestion\Helios\obj\Release\Helios.exe.licenses
